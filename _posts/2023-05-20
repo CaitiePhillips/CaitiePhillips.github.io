@@ -1,0 +1,10 @@
+Progress!
+
+First, I will start with some back pedalling :(. Last week I wrote a great post and it did not upload because my laptop died! However, this week had a lot of progress. 
+
+Q2 is now working! 
+I greatly stuggled with the bug in duckduckgo_search that would not let me download images - but the next day I attempted to run my code again and it worked fine. Luckily, Brian also solved this problem so - if it happens again, I can resolve it then and there. 
+Last week, I was also struggling with the difference bewteen validation and test sets. But thanks to some googling, and some helpful diagrams, I understand their importance and why they are used. 
+This confusion also mislead me to think we may not need test sets, but now that I know we do, I have implemented them and the results are quite good. 
+
+I have just started Q3, using my solution from Q2 as a starting spot. The given data has a lot of images (50000!), so running this initially went a little long, until I had a read of some other solutions on Kaggle who had the bright idea to not use them all. So, I have been only using the first 500 do get an idea of how my Q2 implimentation will work for Q3 and atm its not too bad - 83.5% accurate! This was a massive improvment from why I used 100 images to now using 400. 
