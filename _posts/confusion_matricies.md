@@ -9,7 +9,7 @@ For a two class model, such as frogs and not frogs, we represent this data in a 
 
 Extending this to a model with more classes, we would have something similar to below. Here, the diagonal elements are the correct classifications rather than true positives or negatives and the off diagonal elements are misclassifications rather than false negatives of positives (these terms work best in the two class example). 
 
-![image](https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/06e31848-2412-420c-9f36-ffbfcfd64703)
+<img width="218" alt="image" src="https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/f41fa942-b656-4f0e-8eba-0ef33d317678">
 
 We can use confidence matricies to calculate sensivity, specificity and accuracy; 
 <img width="839" alt="image" src="https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/68fe7dcb-b481-4ca7-8153-9b04fcc386db">
