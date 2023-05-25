@@ -1,4 +1,4 @@
-## ResNet18
+# ResNet18
 ### In the first FastAI example, we use a pre-trained model ResNet18. But what is ResNet18? 
 
 Lets begin discussing central neural networks (CNNs). CNNs can be challenging and costly (time and resource wise) to create. That’s why it is convenient to have a CNN that can be applied to a range of problems provided some small alterations. That is what ResNet18 provides to us. ResNet18, as well as all the other ResNet networks, is very good at computer vision and identification tasks. By passing this CNN our images, we can fit the CNN to our new task. 
