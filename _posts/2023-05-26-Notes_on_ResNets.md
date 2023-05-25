@@ -5,7 +5,7 @@ Lets begin discussing central neural networks (CNNs). CNNs can be challenging an
 
 ResNets have been around since  Kaiming He et al published their paper on “Deep Residual Learning for Image Recognition” in 2015. We have access to Resnet18 to ResNet152 with FastAI, hence their use in questions 2 and 3. The ResNets differ in their depth, indicated by the number in their name. The deeper the network, the more accurate the model but the slower it is (Nakanishi, 2020). 
 
-![image](https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/1fd159b4-0259-4cf1-9425-c844da1ff474)
+![image](/images/resnet.png)
 
 
  
