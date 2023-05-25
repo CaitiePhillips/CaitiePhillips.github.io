@@ -1,4 +1,4 @@
-## Confusion Matricies
+# Confusion Matricies
 A confusion matrix is an permformance measurment tool for machine leaning data classification with two or more classes. No matter how many classes, the classification it'self can be one of four things: a true positive (TP), a false positive (FP), a true negative (TN), or a false negative (FN). 
 
 For example, say we were identifying frogs from images of frogs and not frogs. If I had an image of a frog and our model identified it as a frog, this would be a true positive. If I had a cat and the model identified this as not a frog, this would be a true negative. If I had an image of a cat and the model classified this as an image of a from, this would be a false positive. If I had an image of a frog and the model classified this as not a frog, this would be a false negative. 
