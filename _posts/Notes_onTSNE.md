@@ -1,4 +1,4 @@
-## T-SNE plots
+# T-SNE plots
 T-distributed Stochastic Neighbour Embedding (T-SNE) is a tool used to visualise high dimensional data in two or three dimensional scatter plot such that similar data points will be nearby each other, and dissimilar data will be more distant. For our purposes, we will be only considering the two-dimensional plot.  
 Avoiding most of the math, I will try and put the steps of creating a T-SNE plot simply. 
 1.	Pairwise similarities are calculated, creating a similarity matrix – this may be done in a variety of ways including Euclidean distance. 
