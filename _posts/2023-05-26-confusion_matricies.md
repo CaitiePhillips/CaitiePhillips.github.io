@@ -5,15 +5,15 @@ For example, say we were identifying frogs from images of frogs and not frogs. I
 
 For a two class model, such as frogs and not frogs, we represent this data in a confusion matrix as below. We aim to have maximum values on the diagonals and zeros off this diagonal. 
 
-![image](https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/2a865b80-4e97-432b-b785-ccfe2f2b3afa)
+![image](/images/conf_mat1.png)
 (Narkhede, 2020)
 
 Extending this to a model with more classes, we would have something similar to below. Here, the diagonal elements are the correct classifications rather than true positives or negatives and the off diagonal elements are misclassifications rather than false negatives of positives (these terms work best in the two class example). 
 
-<img width="218" alt="image" src="https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/f41fa942-b656-4f0e-8eba-0ef33d317678">
+![image](/images/conf_mat2.png)
 (Tharwat, 2018)
 
 We can use confidence matricies to calculate sensivity, specificity and accuracy; 
-<img width="839" alt="image" src="https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/68fe7dcb-b481-4ca7-8153-9b04fcc386db">
+![image](/images/math.png)
 
 Confusion matricies can be implimented to measure the performance of our model in the jupiter notebook with fastai's ClassificationInterpretation class and the plot_confusion_matrix method. 
