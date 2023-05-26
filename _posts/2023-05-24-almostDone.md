@@ -10,7 +10,7 @@ Issue with search_image: only downloads images for one directory.
 
 Issue with search_image_ddg:
 
-![image](/images/Screenshot-2023-05-24-204722.png)
+![image](/images/screenshot.png)
 
 
 ## Question 3 update
