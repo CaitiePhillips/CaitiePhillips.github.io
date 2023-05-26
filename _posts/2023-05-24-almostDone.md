@@ -10,7 +10,7 @@ Issue with search_image: only downloads images for one directory.
 
 Issue with search_image_ddg:
 
-<img width="623" alt="image" src="https://github.com/CaitiePhillips/CaitiePhillips.github.io/assets/61171103/42a8e5eb-73b5-4759-beda-cc36164a4962">
+![image](images/Screenshot 2023-05-24 204722.png)
 
 
 ## Question 3 update
